@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "heroku-prebuild": "npm install",
     "start": "node index.js"
   },
   "keywords": [],
